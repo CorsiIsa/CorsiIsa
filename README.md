@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=100"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0084&height=100"/>
 
 <h1 align = "center">Isabelle Corsi</h1>
 <div>
@@ -29,4 +29,4 @@
   </p>
 </div>
 
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=61dafb"/>
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=FF0084"/>
