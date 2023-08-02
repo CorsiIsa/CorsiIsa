@@ -15,10 +15,10 @@
 </div>
 <div>
   <h2 align = "justified">GitHub Stats</h2>
-<a href = "http://www.github.com/CorsiIsa"><img align= "left" height = "170em" src ="https://github-readme-stats.vercel.app/api?username=CorsiIsa&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true"<br/>
-<img align = "right"height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorsiIsa&theme=synthwave&hide_border=true&layout=compact" alt="CorsiIsa"/></p>
+<a href = "http://www.github.com/CorsiIsa"><img align= "left" height = "140em" src ="https://github-readme-stats.vercel.app/api?username=CorsiIsa&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true"<br/>
+<img align = "right"height = "140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorsiIsa&theme=synthwave&hide_border=true&layout=compact" alt="CorsiIsa"/></p>
 </div>
-<br><br>
+
 
 <div> 
   <br> <br> <br> <br> <br> <br> <br>
