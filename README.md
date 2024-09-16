@@ -24,7 +24,7 @@
   <br> <br> <br> <br> <br> <br> <br>
   <h2 align = "justified"></h2>
   <p align="center">
-      <a href="[https://www.linkedin.com/in/isabelle-corsi](https://www.linkedin.com/in/isabelle-corsi-938281267/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://www.linkedin.com/in/isabelle-corsi-938281267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href = "mailto:icorsi15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
 </div>
