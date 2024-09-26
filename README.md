@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0084&height=100"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F27FF&height=100"/>
 
 <h1 align = "center">Isabelle Corsi</h1>
 <div>
@@ -9,14 +9,14 @@
   <h2 align = "justified">Skills</h2>
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,c,cs,cpp,css,eclipse,html,java,kotlin,mysql,php,py,sqlite,visualstudio,vscode," />
+    <img src="https://skillicons.dev/icons?i=bootstrap,cs,css,dotnet,firebase,git,github,html,java,js,jquery,kotlin,maven,mongodb,mysql,npm,postgres,py,spring,selenium " />
   </a>
 </p>
 </div>
 <div>
   <h2 align = "justified">GitHub Stats</h2>
-<a href = "http://www.github.com/CorsiIsa"><img align= "left" height = "140em" src ="https://github-readme-stats.vercel.app/api?username=CorsiIsa&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true"<br/>
-<img align = "right"height = "140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorsiIsa&theme=synthwave&hide_border=true&layout=compact" alt="CorsiIsa"/></p>
+<a href = "http://www.github.com/CorsiIsa"><img align= "left" height = "140em" src ="https://github-readme-stats.vercel.app/api?username=CorsiIsa&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&text_color=EBD3F8&bg_color=7F27FF"<br/>
+<img align = "right"height = "140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorsiIsa&theme=synthwave&hide_border=true&layout=compact&text_color=EBD3F8&bg_color=7F27FF" alt="CorsiIsa"/></p>
 </div>
 
 
@@ -29,4 +29,4 @@
   </p>
 </div>
 
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=FF0084"/>
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=7F27FF"/>
