@@ -4,7 +4,7 @@
 <div>
   <h2 align "justified">Sobre mim: </h2>
   <p><br>Atualmente estou iniciando na pós graduação de Data Analytics | FIAP
-  <p><br>Graduada em Curso Análise e Desenvolvimento de Sistema | FIAP
+  <p><br>Graduada em Análise e Desenvolvimento de Sistema | FIAP
   <p><br>Possuo cursos técnicos em Desenvolvimento de Sistemas e Informática para internet | Etec Lauro Gomes
 </div>
 <div>
